@@ -8,9 +8,9 @@ In this project, I used data provided by Motivate, a bike share system provider 
 # Requirements
 to run this project you will need:
 1. Data files:
-  * New York City (Citi Bike): (Link)[https://www.citibikenyc.com/system-data]
-  * Chicago (Divvy): (Link)[https://www.divvybikes.com/system-data]
-  * Washington, DC (Capital Bikeshare): (Link)[https://www.capitalbikeshare.com/system-data]
+  * New York City (Citi Bike): [Link](https://www.citibikenyc.com/system-data)
+  * Chicago (Divvy): [Link](https://www.divvybikes.com/system-data)
+  * Washington, DC (Capital Bikeshare): [Link](https://www.capitalbikeshare.com/system-data)
 2. Python libraries:
   * numpy
   * pandas
