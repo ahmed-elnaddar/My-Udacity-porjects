@@ -8,12 +8,12 @@ In this project, I used data provided by Motivate, a bike share system provider 
 # Requirements
 to run this project you will need:
 1. Data files:
-  * New York City (Citi Bike): [Link](https://www.citibikenyc.com/system-data)
-  * Chicago (Divvy): [Link](https://www.divvybikes.com/system-data)
-  * Washington, DC (Capital Bikeshare): [Link](https://www.capitalbikeshare.com/system-data)
+   * New York City (Citi Bike): [Link](https://www.citibikenyc.com/system-data)
+   * Chicago (Divvy): [Link](https://www.divvybikes.com/system-data)
+   * Washington, DC (Capital Bikeshare): [Link](https://www.capitalbikeshare.com/system-data)
 2. Python libraries:
-  * numpy
-  * pandas
+   * numpy
+   * pandas
 
 # Datasets
 The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months of 2017 for all three cities. The data files for all three cities contain the same core six columns:
@@ -33,20 +33,20 @@ The **Chicago** and **New York City** files also have the following two columns:
 I learned about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, I wrote code to provide the following information:
 
 1. Popular times of travel (i.e., occurs most often in the start time)
-  * most common month
-  * most common day of week
-  * most common hour of day
+   * most common month
+   * most common day of week
+   * most common hour of day
   
 2. Popular stations and trip
-  * most common start station
-  * most common end station
-  * most common trip from start to end (i.e., most frequent combination of start station and end station)
+   * most common start station
+   * most common end station
+   * most common trip from start to end (i.e., most frequent combination of start station and end station)
 
 3. Trip duration
-  * total travel time
-  * average travel time
+   * total travel time
+   * average travel time
   
 4. User info
-  * counts of each user type
-  * counts of each gender (only available for NYC and Chicago)
-  * earliest, most recent, most common year of birth (only available for NYC and Chicago)
+   * counts of each user type
+   * counts of each gender (only available for NYC and Chicago)
+   * earliest, most recent, most common year of birth (only available for NYC and Chicago)
